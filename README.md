@@ -1,4 +1,5 @@
 📊 Data Professional Survey Breakdown Dashboard
+
 📌 Project Overview
 
 This project presents an interactive Power BI dashboard built using a survey dataset of data professionals. The dashboard provides insights into demographics, salaries, programming language preferences, work-life balance, salary satisfaction, and the perceived difficulty of entering the data industry.
@@ -6,6 +7,7 @@ This project presents an interactive Power BI dashboard built using a survey dat
 The goal of this project is to demonstrate data visualization, business intelligence, and dashboard design skills using Microsoft Power BI.
 
 📷 Dashboard Preview
+
 Dashboard Screenshot
 
 🚀 Features
@@ -108,8 +110,10 @@ Publish the dashboard to Power BI Service.
 👩‍💻 Author
 
 Richa Pawar
+
 Aspiring Data Analyst & Full Stack Python Developer
 Skilled in Python, SQL, Power BI, Excel, and Data Visualization
 
 ⭐ If you found this project useful
+
 If you like this project, consider giving it a ⭐ on GitHub.
